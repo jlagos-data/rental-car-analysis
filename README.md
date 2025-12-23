@@ -1,4 +1,4 @@
-# Estrategia de Pricing y Rentabilidad: Rent-of-Car 2025
+# Estrategia de Pricing y Rentabilidad: Rental-Car 2025
 ### Análisis de gestión de ingresos y optimización de flotas
 
 **Analista:** Julio Lagos  
@@ -6,7 +6,7 @@
 
 ---
 
-> **Resumen del Proyecto:** > Auditoría integral de datos para identificar fugas de ingresos por sub-valoración de flota y optimización de márgenes mediante estrategias de precios dinámicos.
+> **Resumen del Proyecto:** > Auditoría integral de datos para identificar fugas de ingresos por sub-valoración de flota y optimización de márgenes mediante estrategias de precios.
 
 ## Hallazgos Estratégicos (Insights)
 * **Ineficiencia del Descuento Estacional:** El uso de un multiplicador de **0.80** en temporada baja es contraproducente. La demanda se mantiene estable (70-80% de ocupación), lo que demuestra que se está sacrificando margen innecesariamente.
